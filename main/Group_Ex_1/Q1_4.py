@@ -1,8 +1,6 @@
 import math
-#Group work 1
-#Author: Alice Popov
 
-#Q4
+# Q4
 def area_of_triangle():
     a = float(input("Enter a:"))
     b = float(input("Enter b:"))
